@@ -1,0 +1,24 @@
+h1{
+    color :red;
+    background-color:yellowgreen;
+}
+*{
+    border:solid;   
+}
+.p{
+    background-color: yellow;
+    display:flex;
+  
+}
+.grid{
+    display:flex;
+    justify-content:space-between;
+    flex-wrap: wrap;
+}
+p,h1{
+    text-align: center;
+    background-color: yellow;
+}
+ul{
+    background-color: violet;
+}
